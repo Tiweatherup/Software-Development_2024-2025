@@ -1,0 +1,5 @@
+#Info about code:
+#Takes a list of strings, goes throuhg it, and converts each string to integer. If is it positive it creates a new list.
+#Invalid inputs will fail.
+#It will Return valid int.
+
